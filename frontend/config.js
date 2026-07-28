@@ -1,7 +1,7 @@
 // Configuration for Resumify Frontend
 const CONFIG = {
     // Updated for ap-south-1 region deployment
-    API_BASE_URL: 'https://yri860154k.execute-api.ap-south-1.amazonaws.com/dev',
+    API_BASE_URL: 'https://ol283os1h3.execute-api.ap-south-1.amazonaws.com/dev',
 
     // UI Configuration
     THEME: {
