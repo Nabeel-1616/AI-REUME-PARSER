@@ -277,7 +277,7 @@ Resumify/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nishith-geedh/Resumify.git
+   git clone https://github.com/Nabeel-1616/AI-REUME-PARSER.git
    cd Resumify
    ```
 
